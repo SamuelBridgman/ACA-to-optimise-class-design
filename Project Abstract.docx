@@ -1,0 +1,19 @@
+# ACA-to-optimise-class-design
+
+Abstract
+
+Purpose: This study assesses the creation of an application to automate the structuring of classes in the design life cycle.
+
+Brief: The design process is an important stage in the software life cycle, if not the more important. It can determine the success or failure of an application through many factors [8][14] such as future extensibility of the application, quality of code and cost due to upkeep and maintenance. The importance of this role in the life cycle has lead to numerous papers being written [4][5][6][10] on different methods and metrics to analyse the design stage. 
+
+Budgen (2003) suggests that to attain a high standard in construction you need a high standard of design. I am proposing to create an application that aids the design process by automatically   grouping methods and attributes into classes based on there use of each other, with the aim of showing that these emerging classes exhibit desirable characteristics that will be assessed by known metrics. These metrics will be chosen to ensure good object orientated design which maximises or minimises respectively the factors previously mentioned.
+
+This report will show all aspects of the project from the research to delivery, supported by references and appendices.  
+Evaluation method: The results will be compared against those gathered from human assessment and other algorithms with given the same problems specifically a Genetic Algorithm (GA) and Ant Colony Optimisation (ACO).
+
+Results/Outcome: The results showed that the basic ACA out preformed manual design and other algorithms with one of the three data sets. This could be further improved with optimisation of the algorithm made through improvements to the way the ants select what items to pick up and drop.
+
+Keywords: ACA Ant Colony Algorithm, Automated Software Design, Automated Early Lifecycle Software Design (ELSD)
+                   
+S. D. Bridgman	samuel.bridgman@hotmail.co.uk
+Department of Computer Science and Creative Technologies, University of the West of England, Bristol BS16 1QY, UK
