@@ -1,7 +1,8 @@
 This piece of work was created for my dissertation for BsC (Hons) Computer Science. 
 
-GDPUseMatrix, SCUseMatric, CBSUseMatrix are three example input files. The input files
- need to be symmetrical with methods then attributes vertical and horizontal in the same order.
+See projectabstract.docx for a more in depth explanation of the project, its aims and evaluation criteria.
+
+GDPUseMatrix, SCUseMatric, CBSUseMatrix are three example input files. The input files need to be symmetrical with methods then attributes vertical and horizontal in the same order.
 
 To configure a run E.G. amount of runs(for batch functionality) edit main.
 
