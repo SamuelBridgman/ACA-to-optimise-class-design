@@ -1,0 +1,15 @@
+Uml163054.txt, Coupling: 0.175 ,Clusters: 4
+Uml163116.txt, Coupling: 0.325 ,Clusters: 3
+Uml163138.txt, Coupling: 0.125 ,Clusters: 3
+Uml163200.txt, Coupling: 0.275 ,Clusters: 2
+Uml163227.txt, Coupling: 0.4 ,Clusters: 3
+Uml163254.txt, Coupling: 0.425 ,Clusters: 6
+Uml163321.txt, Coupling: 0.35 ,Clusters: 3
+Uml163350.txt, Coupling: 0.3 ,Clusters: 6
+Uml163417.txt, Coupling: 0.275 ,Clusters: 5
+Uml163445.txt, Coupling: 0.35 ,Clusters: 3
+Uml163512.txt, Coupling: 0.7 ,Clusters: 7
+Uml163539.txt, Coupling: 0.65 ,Clusters: 5
+Uml163605.txt, Coupling: 0.25 ,Clusters: 4
+Uml163632.txt, Coupling: 0.125 ,Clusters: 4
+Uml163659.txt, Coupling: 0.275 ,Clusters: 4

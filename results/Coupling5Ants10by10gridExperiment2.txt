@@ -1,0 +1,15 @@
+Uml133241.txt, Coupling: 0.2 ,Clusters: 3
+Uml133305.txt, Coupling: 0.425 ,Clusters: 4
+Uml133328.txt, Coupling: 0.075 ,Clusters: 2
+Uml133353.txt, Coupling: 0.275 ,Clusters: 4
+Uml133417.txt, Coupling: 0.15 ,Clusters: 3
+Uml133443.txt, Coupling: 0.225 ,Clusters: 3
+Uml133511.txt, Coupling: 0.025 ,Clusters: 2
+Uml133538.txt, Coupling: 0.025 ,Clusters: 2
+Uml133607.txt, Coupling: 0.2 ,Clusters: 3
+Uml133634.txt, Coupling: 0.3 ,Clusters: 2
+Uml133703.txt, Coupling: 0.2 ,Clusters: 4
+Uml133731.txt, Coupling: 0.025 ,Clusters: 2
+Uml133759.txt, Coupling: 0.1 ,Clusters: 2
+Uml133826.txt, Coupling: 0.175 ,Clusters: 4
+Uml133855.txt, Coupling: 0.2 ,Clusters: 4

@@ -1,0 +1,15 @@
+Uml182258.txt, Coupling: 0.65 ,Clusters: 11
+Uml182339.txt, Coupling: 0.55 ,Clusters: 13
+Uml182404.txt, Coupling: 0.575 ,Clusters: 14
+Uml182429.txt, Coupling: 0.525 ,Clusters: 15
+Uml182453.txt, Coupling: 0.675 ,Clusters: 14
+Uml182518.txt, Coupling: 0.675 ,Clusters: 14
+Uml182542.txt, Coupling: 0.775 ,Clusters: 20
+Uml182607.txt, Coupling: 0.725 ,Clusters: 15
+Uml182640.txt, Coupling: 0.525 ,Clusters: 15
+Uml182705.txt, Coupling: 0.625 ,Clusters: 12
+Uml182729.txt, Coupling: 0.65 ,Clusters: 14
+Uml182756.txt, Coupling: 0.725 ,Clusters: 14
+Uml182827.txt, Coupling: 0.55 ,Clusters: 14
+Uml182855.txt, Coupling: 0.675 ,Clusters: 14
+Uml182925.txt, Coupling: 0.625 ,Clusters: 14

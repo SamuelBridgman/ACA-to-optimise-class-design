@@ -1,0 +1,15 @@
+Uml132230.txt, Coupling: 0.29906542056074764 ,Clusters: 7
+Uml132252.txt, Coupling: 0.6542056074766355 ,Clusters: 13
+Uml132315.txt, Coupling: 0.4672897196261682 ,Clusters: 10
+Uml132337.txt, Coupling: 0.4485981308411215 ,Clusters: 11
+Uml132400.txt, Coupling: 0.6448598130841121 ,Clusters: 9
+Uml132422.txt, Coupling: 0.3925233644859813 ,Clusters: 6
+Uml132445.txt, Coupling: 0.6542056074766355 ,Clusters: 10
+Uml132508.txt, Coupling: 0.5794392523364486 ,Clusters: 8
+Uml132531.txt, Coupling: 0.5560747663551402 ,Clusters: 5
+Uml132553.txt, Coupling: 0.29906542056074764 ,Clusters: 9
+Uml132619.txt, Coupling: 0.3598130841121495 ,Clusters: 8
+Uml132649.txt, Coupling: 0.4485981308411215 ,Clusters: 11
+Uml132719.txt, Coupling: 0.18691588785046728 ,Clusters: 9
+Uml132747.txt, Coupling: 0.7102803738317757 ,Clusters: 12
+Uml132815.txt, Coupling: 0.7336448598130841 ,Clusters: 12

@@ -1,0 +1,14 @@
+This piece of work was created for my dissertation for BsC (Hons) Computer Science. 
+
+GDPUseMatrix, SCUseMatric, CBSUseMatrix are three example input files. The input files
+ need to be symmetrical with methods then attributes vertical and horizontal in the same order.
+
+To configure a run E.G. amount of runs(for batch functionality) edit main.
+
+To configure parameters of run E.G. ants, map size, iteration edit Configuration.java
+
+Then rebuild.
+
+Output files will be produced in this folder
+
+Any questions email samuel.bridgman@hotmail.co.uk
